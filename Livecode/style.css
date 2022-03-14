@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.map {
+    height: 300px;
+}
+
+.filter {
+    padding: 1rem;
+
+}
+
+/* style inside the neigbors*/
+.neighbors >ul {
+    list-style: none;
+    padding: 1rem;
+
+}
